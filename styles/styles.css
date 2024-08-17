@@ -1,12 +1,12 @@
-:root {
-  /* font family */
+/*:root {
+  /* font family *
   --primaryFont: ;
   --secondaryFont: ;
   --tertiaryFont: ;
   --quaternaryFont: ;
   --quinaryFont: ;
 
-  /* font weight */
+  /* font weight *
   --wRegular: 400;
   --wMedium: 500;
   --wSemiBold: 600;
@@ -14,7 +14,7 @@
   --wExtraBold: 800;
   --wBlack: 900;
 
-  /* color */
+  /* color *
   --primaryColor: ;
   --secondaryColor: ;
   --tertiaryColor: ;
@@ -71,3 +71,15 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+*/
+
+
+.class{
+  crimson: '#dc143c',
+  deeppink: '#ff1493',
+}
+
+clifford: "#da373d",
+
+
+crimson
